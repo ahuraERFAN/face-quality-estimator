@@ -175,4 +175,3 @@ This pipeline can be used for:
 * The authors are not responsible for misuse of the provided code.
 
 ---
-"# face-quality-estimator" 
